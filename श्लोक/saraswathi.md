@@ -1,6 +1,6 @@
 # Saraswati Namastubhyam
 
-![Saraswat](https://cdn.pixabay.com/photo/2024/05/03/04/04/ai-generated-8736092_1280.jpg)
+![saraswati](images/saraswati.webp)
 
 ```
 सरस्वती नमस्ते तुभ्यं वरदे कामरूपिणि ।
