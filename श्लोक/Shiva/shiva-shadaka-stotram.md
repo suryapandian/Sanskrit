@@ -25,7 +25,7 @@
 
 https://www.youtube.com/watch?v=LznvOR_tkbc
 
-
+https://shlokam.org/shivashadaksharastotram/
 
 
 *ॐकारं बिन्दुसंयुक्तं नित्यं ध्यायंति योगिनः ।
