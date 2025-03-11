@@ -4,7 +4,7 @@ spoitfy: https://open.spotify.com/track/6fpGkH3nXGUDJ7RPALsT9y?si=4b41500ced4647
 
 [wowers](https://nithyanandapedia.org/wiki/Kailasa_Paramparagatha_Arunagiri_Yogishwara_Adi_Arunachala_Sarvajnapeetha_Samrajyam#Paramasiva.E2.80.99s_promise_to_humanity_in_Tiruvannamalai)
 
-![lingam](../../images/annamalai.png)
+![lingam](../../images/annamalai.jpeg)
 
 ```
 ब्रह्ममुरारिसुरार्चितलिङ्गं
