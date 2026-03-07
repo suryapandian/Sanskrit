@@ -1,0 +1,94 @@
+name: Check New Files
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches: [main]
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Check new files are documented
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          #!/bin/bash
+          set -e
+
+          # Get the base commit (main for PRs, parent for push)
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          else
+            BASE_SHA="${{ github.event.before }}"
+          fi
+
+          if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            echo "No previous commit found, skipping check"
+            exit 0
+          fi
+
+          # Get list of new files
+          NEW_FILES=$(git diff --name-only --diff-filter=A "$BASE_SHA"...HEAD || true)
+
+          if [ -z "$NEW_FILES" ]; then
+            echo "✓ No new files to check"
+            exit 0
+          fi
+
+          echo "Checking new files..."
+          FAILED=0
+          GITIGNORE_CONTENTS=$(cat .gitignore 2>/dev/null || echo "")
+
+          for FILE in $NEW_FILES; do
+            # Skip if directory
+            [ -d "$FILE" ] && continue
+
+            # Check if it's an image
+            if [[ "$FILE" =~ \.(jpg|jpeg|png|gif|svg|webp|ico)$ ]]; then
+              echo "✓ $FILE (image)"
+              continue
+            fi
+
+            # Check if gitignored
+            if git check-ignore -q "$FILE" 2>/dev/null; then
+              echo "✓ $FILE (gitignored)"
+              continue
+            fi
+
+            # Check if referenced in any README
+            FOUND=0
+            for README in $(find . -name "README.md" -type f); do
+              # Normalize the file path for comparison (remove leading ./)
+              NORMALIZED_FILE="${FILE#./}"
+              # Check if file is mentioned in README (as a link or reference)
+              if grep -q "$NORMALIZED_FILE\|${FILE##*/}\|$(basename "$FILE" .md)" "$README" 2>/dev/null; then
+                echo "✓ $FILE (referenced in $README)"
+                FOUND=1
+                break
+              fi
+            done
+
+            if [ $FOUND -eq 0 ]; then
+              echo "✗ $FILE (not documented)"
+              FAILED=1
+            fi
+          done
+
+          if [ $FAILED -eq 1 ]; then
+            echo ""
+            echo "❌ Some new files are not properly documented."
+            echo "Please either:"
+            echo "  1. Add them to a README with a link/reference"
+            echo "  2. Add them to .gitignore if they're not needed"
+            echo "  3. Ensure they are image files in the images/ folder"
+            exit 1
+          fi
+
+          echo ""
+          echo "✅ All new files are properly documented!"
