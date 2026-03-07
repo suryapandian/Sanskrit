@@ -49,6 +49,12 @@ jobs:
             # Skip if directory
             [ -d "$FILE" ] && continue
 
+            # Skip hidden files/folders (starting with .)
+            if [[ "$FILE" =~ ^\./ ]] || [[ "$FILE" =~ /\. ]]; then
+              echo "✓ $FILE (hidden)"
+              continue
+            fi
+
             # Check if it's an image
             if [[ "$FILE" =~ \.(jpg|jpeg|png|gif|svg|webp|ico)$ ]]; then
               echo "✓ $FILE (image)"
