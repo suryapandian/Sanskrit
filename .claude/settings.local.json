@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(__NEW_LINE_60a78a7e55eaeae1__:*)",
+      "Bash(mv:*)"
+    ]
+  }
+}

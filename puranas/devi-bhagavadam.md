@@ -11,6 +11,7 @@
 1. विवेक (Viveka) — Discernment
 2. वैराग्य (Vairāgya) — Dispassion
 3. षट्सम्पत्ति (Ṣaṭsampatti) — The Sixfold Virtues
+4. Mumukshutvam (मुमुक्षुत्वम्): Intense burning desire for liberation (Moksha). 
 
 
 ### षट्सम्पत्ति (Ṣaṭsampatti) — The Sixfold Virtues
