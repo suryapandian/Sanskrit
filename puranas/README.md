@@ -21,3 +21,6 @@
 | 17 | गरुड पुराण | The soul's journey after death, karma, the afterlife, ancestral rites, and gemology |
 | 18 | ब्रह्माण्ड पुराण | Cosmic egg (brahmāṇḍa), genealogies, the Lalitā Sahasranāma, and Śākta teachings |
 
+## Available Texts
+
+- [devi-bhagavadam](./devi-bhagavadam.md)
