@@ -1,5 +1,10 @@
+title: Sanskrit Encyclopaedia
+description: Line by line, word by word translations of Sanskrit shlokas, stotrams, and hymns with meanings
+url: https://suryapandian.github.io
+baseurl: /Sanskrit
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true

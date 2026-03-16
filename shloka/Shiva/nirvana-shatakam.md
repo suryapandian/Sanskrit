@@ -1,3 +1,9 @@
+---
+title: "Nirvana Shatakam - निर्वाण षट्कम् | Lyrics, Meaning & Word by Word Translation"
+description: "Nirvana Shatakam (Atma Shatakam) by Adi Shankaracharya - complete Sanskrit lyrics with English translation. Mano Buddhyahankara Chittani Naham."
+keywords: "nirvana shatakam, निर्वाण षट्कम्, atma shatakam, mano buddhyahankara, chidananda roopah shivoham shivoham, adi shankaracharya, sanskrit shloka, advaita vedanta"
+---
+
 # Nirvana Shatakam
 
 ```

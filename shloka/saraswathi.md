@@ -1,3 +1,9 @@
+---
+title: "Saraswati Namastubhyam - सरस्वति नमस्तुभ्यम् | Lyrics, Meaning & Translation"
+description: "Saraswati Namastubhyam - prayer to Goddess Saraswati. Complete Sanskrit lyrics with English translation. Varade Kamarupini."
+keywords: "saraswati namastubhyam, सरस्वति नमस्तुभ्यम्, saraswati shloka, saraswati prayer, vidyarambham karishyami, sanskrit shloka, saraswati mantra"
+---
+
 # Saraswati Namastubhyam
 
 ![saraswati](../images/saraswati.png)

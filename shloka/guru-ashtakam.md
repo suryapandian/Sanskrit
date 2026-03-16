@@ -1,3 +1,9 @@
+---
+title: "Guru Ashtakam - गुरु अष्टकम् | Lyrics, Meaning & Word by Word Translation"
+description: "Guru Ashtakam by Adi Shankaracharya - complete Sanskrit lyrics with line by line and word by word English translation. Shariram Swaroopam tatha va kalatram."
+keywords: "guru ashtakam, गुरु अष्टकम्, adi shankaracharya, sanskrit shloka, guru ashtakam lyrics, guru ashtakam meaning, shariram swaroopam, guru paduka, word by word translation, guru stotram"
+---
+
 # Guru Ashtakam
 
 By Adi Shankaracharya

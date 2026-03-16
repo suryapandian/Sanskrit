@@ -1,3 +1,9 @@
+---
+title: "Lingashtakam - लिङ्गाष्टकम् | Lyrics, Meaning & Word by Word Translation"
+description: "Lingashtakam - eight verses in praise of Shiva Lingam. Complete Sanskrit lyrics with English translation. Brahma Murari Surarchita Lingam."
+keywords: "lingashtakam, लिङ्गाष्टकम्, brahma murari surarchita lingam, shiva lingam stotram, lingashtakam lyrics, lingashtakam meaning, sanskrit shloka"
+---
+
 # Lingashtakam
 
 spoitfy: https://open.spotify.com/track/6fpGkH3nXGUDJ7RPALsT9y?si=4b41500ced46472d

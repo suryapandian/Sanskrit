@@ -1,3 +1,9 @@
+---
+title: "Shiva Shadakshara Stotram - शिव षडक्षर स्तोत्रम् | Lyrics, Meaning & Word by Word Translation"
+description: "Shiva Shadakshara Stotram - six syllable hymn to Lord Shiva. Complete Sanskrit lyrics with English translation and word meanings."
+keywords: "shiva shadakshara stotram, शिव षडक्षर स्तोत्रम्, om namah shivaya, six syllable mantra, shiva stotram, sanskrit shloka, shiva stotram meaning"
+---
+
 # Shiva Shadakashara Stotram
 
 षडक्षर (ṣaḍakṣara): six syllables (ṣaṭ = six, akṣara = syllable)

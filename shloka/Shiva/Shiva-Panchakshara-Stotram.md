@@ -1,3 +1,9 @@
+---
+title: "Shiva Panchakshara Stotram - शिव पञ्चाक्षर स्तोत्रम् | Lyrics, Meaning & Word by Word Translation"
+description: "Shiva Panchakshara Stotram by Adi Shankaracharya - complete Sanskrit lyrics with line by line English translation. Nagendraharaya Trilochanaya."
+keywords: "shiva panchakshara stotram, शिव पञ्चाक्षर स्तोत्रम्, nagendraharaya, om namah shivaya, adi shankaracharya, shiva stotram lyrics, shiva stotram meaning, sanskrit shloka"
+---
+
 # Shiva Panchakshara Stotram 
 
 https://isha.sadhguru.org/mahashivratri/shiva/shiva-panchakshara-stotram-lyrics/

@@ -1,3 +1,9 @@
+---
+title: "Gange Cha Yamune Chaiva - गङ्गे च यमुने चैव | Snanam Shloka Lyrics & Meaning"
+description: "Gange Cha Yamune Chaiva - sacred bathing prayer invoking holy rivers. Complete Sanskrit lyrics with word by word English translation."
+keywords: "gange cha yamune chaiva, गङ्गे च यमुने चैव, snanam shloka, bathing prayer, sacred rivers prayer, godavari saraswati narmade, sanskrit shloka"
+---
+
 # गङ्गे च यमुने चैव
 
 This is a beautiful and widely known verse! It's a prayer invoking sacred rivers, often recited during bathing. Here's the full verse with a word-by-word translation to help you learn Sanskrit:
