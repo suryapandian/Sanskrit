@@ -22,9 +22,13 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 The body may be beautiful, and so too the spouse —
 
 शरीरम् (śarīram): body
+
 सुरूपम् (surūpam): beautiful, well-formed (su = good, rūpa = form)
+
 तथा (tathā): so, likewise
+
 वा (vā): or, and also
+
 कलत्रम् (kalatram): wife, spouse
 
 **यशश्चारु चित्रं धनं मेरुतुल्यम्**
@@ -32,10 +36,15 @@ The body may be beautiful, and so too the spouse —
 Fame may be wonderfully attractive, and wealth equal to Mount Meru —
 
 यशः (yaśaḥ): fame, glory
+
 चारु (cāru): beautiful, attractive
+
 चित्रम् (citram): wonderful, remarkable
+
 धनम् (dhanam): wealth
+
 मेरु (meru): Mount Meru (the mythical golden mountain at the center of the universe)
+
 तुल्यम् (tulyam): equal to, comparable to
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -43,11 +52,17 @@ Fame may be wonderfully attractive, and wealth equal to Mount Meru —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -55,6 +70,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -73,10 +89,15 @@ Then what use? Then what use? Then what use? Then what use?
 Spouse, wealth, sons, grandsons and all the rest —
 
 कलत्रम् (kalatram): wife, spouse
+
 धनम् (dhanam): wealth
+
 पुत्र (putra): son
+
 पौत्र (pautra): grandson
+
 आदि (ādi): and so on, et cetera
+
 सर्वम् (sarvam): all, everything
 
 **गृहं बान्धवाः सर्वमेतद्धि जातम्**
@@ -84,10 +105,15 @@ Spouse, wealth, sons, grandsons and all the rest —
 Home, relatives — all these may indeed be there —
 
 गृहम् (gṛham): house, home
+
 बान्धवाः (bāndhavāḥ): relatives, kinsmen
+
 सर्वम् (sarvam): all
+
 एतत् (etat): this
+
 हि (hi): indeed, certainly
+
 जातम् (jātam): born, arisen, present
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -95,11 +121,17 @@ Home, relatives — all these may indeed be there —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -107,6 +139,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -125,10 +158,15 @@ Then what use? Then what use? Then what use? Then what use?
 The Vedas with their six limbs may be on one's lips, and the knowledge of all scriptures —
 
 षडङ्ग (ṣaḍaṅga): six limbs (the six Vedāngas — śikṣā, chandas, vyākaraṇa, nirukta, jyotiṣa, kalpa)
+
 आदि (ādi): and so on
+
 वेदः (vedaḥ): the Vedas
+
 मुखे (mukhe): on the face/lips, i.e. memorized and recitable
+
 शास्त्र (śāstra): scriptures, sciences
+
 विद्या (vidyā): knowledge
 
 **कवित्वादि गद्यं सुपद्यं करोति**
@@ -136,10 +174,15 @@ The Vedas with their six limbs may be on one's lips, and the knowledge of all sc
 One may compose fine prose and beautiful poetry —
 
 कवित्व (kavitva): poetic ability, the art of poetry
+
 आदि (ādi): and so on
+
 गद्यम् (gadyam): prose
+
 सु (su): good, beautiful
+
 पद्यम् (padyam): verse, poetry
+
 करोति (karoti): does, makes, composes
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -147,11 +190,17 @@ One may compose fine prose and beautiful poetry —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -159,6 +208,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -177,8 +227,11 @@ Then what use? Then what use? Then what use? Then what use?
 One may be honored in foreign lands and prosperous in one's own land —
 
 विदेशेषु (videśeṣu): in foreign countries (vi = different, deśa = country, -eṣu = locative plural)
+
 मान्यः (mānyaḥ): honored, respected
+
 स्वदेशेषु (svadeśeṣu): in one's own country (sva = own, deśa = country)
+
 धन्यः (dhanyaḥ): fortunate, prosperous, blessed
 
 **सदाचारवृत्तेषु मत्तो न चान्यः**
@@ -186,10 +239,15 @@ One may be honored in foreign lands and prosperous in one's own land —
 "In righteous conduct, there is none greater than me" —
 
 सदाचार (sadācāra): good conduct, righteous behavior (sat = good, ācāra = conduct)
+
 वृत्तेषु (vṛtteṣu): in practices, in ways of life
+
 मत्तः (mattaḥ): than me (ablative of aham)
+
 न (na): not
+
 च (ca): and
+
 अन्यः (anyaḥ): another, other
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -197,11 +255,17 @@ One may be honored in foreign lands and prosperous in one's own land —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -209,6 +273,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -227,9 +292,13 @@ Then what use? Then what use? Then what use? Then what use?
 On the surface of the earth, by groups of kings and rulers —
 
 क्षमा (kṣamā): the earth
+
 मण्डले (maṇḍale): in the sphere, on the surface
+
 भूप (bhūpa): king (bhū = earth, pa = protector)
+
 भूपाल (bhūpāla): king, ruler (synonym of bhūpa)
+
 वृन्दैः (vṛndaiḥ): by groups, by multitudes (instrumental plural)
 
 **सदा सेवितं यस्य पादारविन्दम्**
@@ -237,9 +306,13 @@ On the surface of the earth, by groups of kings and rulers —
 Whose lotus feet are ever worshipped —
 
 सदा (sadā): always, ever
+
 सेवितम् (sevitam): served, worshipped
+
 यस्य (yasya): whose
+
 पाद (pāda): foot
+
 अरविन्दम् (aravindam): lotus
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -247,11 +320,17 @@ Whose lotus feet are ever worshipped —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -259,6 +338,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -277,10 +357,15 @@ Then what use? Then what use? Then what use? Then what use?
 "My fame has spread in all directions through the power of my generosity" —
 
 यशः (yaśaḥ): fame, glory
+
 मे (me): my
+
 गतम् (gatam): gone, spread
+
 दिक्षु (dikṣu): in the directions (locative plural of diś)
+
 दान (dāna): charity, generosity
+
 प्रतापात् (pratāpāt): through the power/glory of (ablative of pratāpa)
 
 **जगद्वस्तु सर्वं करे यत्प्रसादात्**
@@ -288,10 +373,15 @@ Then what use? Then what use? Then what use? Then what use?
 "All the things of the world are in my hand by whose grace" —
 
 जगत् (jagat): world
+
 वस्तु (vastu): thing, substance
+
 सर्वम् (sarvam): all, everything
+
 करे (kare): in the hand (locative of kara)
+
 यत् (yat): whose, by which
+
 प्रसादात् (prasādāt): by the grace of (ablative of prasāda)
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -299,11 +389,17 @@ Then what use? Then what use? Then what use? Then what use?
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -311,6 +407,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -329,9 +426,13 @@ Then what use? Then what use? Then what use? Then what use?
 Not in pleasures, not in yoga, not in horses and royal splendor —
 
 न (na): not
+
 भोगे (bhoge): in enjoyment, in pleasures (locative of bhoga)
+
 योगे (yoge): in yoga, in spiritual practice
+
 वा (vā): or
+
 वाजिराजौ (vājirājau): in the king of horses, i.e. in royal mounts/splendor (vāji = horse, rāja = king)
 
 **न कान्तामुखे नैव वित्तेषु चित्तम्**
@@ -339,9 +440,13 @@ Not in pleasures, not in yoga, not in horses and royal splendor —
 Not in the face of the beloved, nor in wealth, is the mind fixed —
 
 कान्ता (kāntā): beloved, wife
+
 मुखे (mukhe): in the face (locative of mukha)
+
 न एव (na eva → naiva): not at all
+
 वित्तेषु (vitteṣu): in wealth, in riches (locative plural of vitta)
+
 चित्तम् (cittam): mind, consciousness
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -349,11 +454,17 @@ Not in the face of the beloved, nor in wealth, is the mind fixed —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -361,6 +472,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -379,10 +491,15 @@ Then what use? Then what use? Then what use? Then what use?
 Neither in the forest, nor in one's own home, nor in duty —
 
 अरण्ये (araṇye): in the forest (locative of araṇya)
+
 न (na): not
+
 वा (vā): or
+
 स्वस्य (svasya): one's own (genitive of sva)
+
 गेहे (gehe): in the home (locative of geha)
+
 कार्ये (kārye): in work, in duty (locative of kārya)
 
 **न देहे मनो वर्तते मे त्वनर्घ्ये**
@@ -390,11 +507,17 @@ Neither in the forest, nor in one's own home, nor in duty —
 Not in the body does my mind dwell, for it is beyond price —
 
 न (na): not
+
 देहे (dehe): in the body (locative of deha)
+
 मनः (manaḥ): mind
+
 वर्तते (vartate): dwells, abides, exists
+
 मे (me): my
+
 तु (tu): but, indeed
+
 अनर्घ्ये (anargye): in that which is priceless (an = not, arghya = having a price)
 
 **गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
@@ -402,11 +525,17 @@ Not in the body does my mind dwell, for it is beyond price —
 In the lotus feet of the Guru, if the mind is not absorbed —
 
 गुरोः (guroḥ): of the Guru
+
 अङ्घ्रि (aṅghri): foot
+
 पद्मे (padme): in the lotus (locative case of padma)
+
 मनः (manaḥ): mind
+
 चेत् (cet): if
+
 न (na): not
+
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
 **ततः किं ततः किं ततः किं ततः किम्**
@@ -414,6 +543,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 Then what use? Then what use? Then what use? Then what use?
 
 ततः (tataḥ): then, from that
+
 किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
@@ -421,9 +551,15 @@ Then what use? Then what use? Then what use? Then what use?
 ## Key Recurring Words
 
 गुरु (guru): teacher, the one who dispels darkness (gu = darkness, ru = remover)
+
 अङ्घ्रि (aṅghri): foot
+
 पद्म (padma): lotus
+
 मनस् (manas): mind
+
 लग्न (lagna): attached, absorbed, fixed
+
 ततः (tataḥ): then
+
 किम् (kim): what (use)?
