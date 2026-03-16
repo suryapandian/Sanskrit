@@ -4,7 +4,7 @@ By Adi Shankaracharya
 
 [![Guru Ashtakam](https://img.youtube.com/vi/jTLSQXFcKPo/0.jpg)](https://www.youtube.com/watch?v=jTLSQXFcKPo)
 
-Each verse ends with: "If the mind is not absorbed in the lotus feet of the Guru, then what is the use? What is the use? What is the use? What is the use?"
+Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbed, then what is the use? What is the use? What is the use? What is the use?"
 
 ---
 
@@ -13,7 +13,7 @@ Each verse ends with: "If the mind is not absorbed in the lotus feet of the Guru
 ```
 शरीरं सुरूपं तथा वा कलत्रं
 यशश्चारु चित्रं धनं मेरुतुल्यम् ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -38,17 +38,17 @@ Fame may be wonderfully attractive, and wealth equal to Mount Meru —
 मेरु (meru): Mount Meru (the mythical golden mountain at the center of the universe)
 तुल्यम् (tulyam): equal to, comparable to
 
-**Line 3: मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे**
+**Line 3: गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
 
-If the mind is not absorbed in the lotus feet of the Guru —
+In the lotus feet of the Guru, if the mind is not absorbed —
 
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
 मनः (manaḥ): mind
 चेत् (cet): if
 न (na): not
 लग्नम् (lagnam): attached, absorbed, fixed upon
-गुरोः (guroḥ): of the Guru
-अङ्घ्रि (aṅghri): foot
-पद्मे (padme): in the lotus (locative case of padma)
 
 **Line 4: ततः किं ततः किं ततः किं ततः किम्**
 
@@ -64,7 +64,7 @@ Then what use? Then what use? Then what use? Then what use?
 ```
 कलत्रं धनं पुत्रपौत्रादि सर्वं
 गृहं बान्धवाः सर्वमेतद्धि जातम् ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -99,7 +99,7 @@ Home, relatives — all these may indeed be there —
 ```
 षडङ्गादिवेदो मुखे शास्त्रविद्या
 कवित्वादि गद्यं सुपद्यं करोति ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -134,7 +134,7 @@ One may compose fine prose and beautiful poetry —
 ```
 विदेशेषु मान्यः स्वदेशेषु धन्यः
 सदाचारवृत्तेषु मत्तो न चान्यः ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -167,7 +167,7 @@ One may be honored in foreign lands and prosperous in one's own land —
 ```
 क्षमामण्डले भूपभूपालवृन्दैः
 सदा सेवितं यस्य पादारविन्दम् ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -200,7 +200,7 @@ Whose lotus feet are ever worshipped —
 ```
 यशो मे गतं दिक्षु दानप्रतापात्
 जगद्वस्तु सर्वं करे यत्प्रसादात् ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -235,7 +235,7 @@ Whose lotus feet are ever worshipped —
 ```
 न भोगे न योगे न वा वाजिराजौ
 न कान्तामुखे नैव वित्तेषु चित्तम् ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
@@ -268,7 +268,7 @@ Not in the face of the beloved, nor in wealth, is the mind fixed —
 ```
 अरण्ये न वा स्वस्य गेहे न कार्ये
 न देहे मनो वर्तते मे त्वनर्घ्ये ।
-मनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे
+गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
