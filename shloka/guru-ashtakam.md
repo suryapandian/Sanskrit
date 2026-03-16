@@ -17,7 +17,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: शरीरं सुरूपं तथा वा कलत्रं**
+**शरीरं सुरूपं तथा वा कलत्रं**
 
 The body may be beautiful, and so too the spouse —
 
@@ -27,7 +27,7 @@ The body may be beautiful, and so too the spouse —
 वा (vā): or, and also
 कलत्रम् (kalatram): wife, spouse
 
-**Line 2: यशश्चारु चित्रं धनं मेरुतुल्यम्**
+**यशश्चारु चित्रं धनं मेरुतुल्यम्**
 
 Fame may be wonderfully attractive, and wealth equal to Mount Meru —
 
@@ -38,7 +38,7 @@ Fame may be wonderfully attractive, and wealth equal to Mount Meru —
 मेरु (meru): Mount Meru (the mythical golden mountain at the center of the universe)
 तुल्यम् (tulyam): equal to, comparable to
 
-**Line 3: गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
 
 In the lotus feet of the Guru, if the mind is not absorbed —
 
@@ -50,7 +50,7 @@ In the lotus feet of the Guru, if the mind is not absorbed —
 न (na): not
 लग्नम् (lagnam): attached, absorbed, fixed upon
 
-**Line 4: ततः किं ततः किं ततः किं ततः किम्**
+**ततः किं ततः किं ततः किं ततः किम्**
 
 Then what use? Then what use? Then what use? Then what use?
 
@@ -68,7 +68,7 @@ Then what use? Then what use? Then what use? Then what use?
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: कलत्रं धनं पुत्रपौत्रादि सर्वं**
+**कलत्रं धनं पुत्रपौत्रादि सर्वं**
 
 Spouse, wealth, sons, grandsons and all the rest —
 
@@ -79,7 +79,7 @@ Spouse, wealth, sons, grandsons and all the rest —
 आदि (ādi): and so on, et cetera
 सर्वम् (sarvam): all, everything
 
-**Line 2: गृहं बान्धवाः सर्वमेतद्धि जातम्**
+**गृहं बान्धवाः सर्वमेतद्धि जातम्**
 
 Home, relatives — all these may indeed be there —
 
@@ -90,7 +90,24 @@ Home, relatives — all these may indeed be there —
 हि (hi): indeed, certainly
 जातम् (jātam): born, arisen, present
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -103,7 +120,7 @@ Home, relatives — all these may indeed be there —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: षडङ्गादिवेदो मुखे शास्त्रविद्या**
+**षडङ्गादिवेदो मुखे शास्त्रविद्या**
 
 The Vedas with their six limbs may be on one's lips, and the knowledge of all scriptures —
 
@@ -114,7 +131,7 @@ The Vedas with their six limbs may be on one's lips, and the knowledge of all sc
 शास्त्र (śāstra): scriptures, sciences
 विद्या (vidyā): knowledge
 
-**Line 2: कवित्वादि गद्यं सुपद्यं करोति**
+**कवित्वादि गद्यं सुपद्यं करोति**
 
 One may compose fine prose and beautiful poetry —
 
@@ -125,7 +142,24 @@ One may compose fine prose and beautiful poetry —
 पद्यम् (padyam): verse, poetry
 करोति (karoti): does, makes, composes
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -138,7 +172,7 @@ One may compose fine prose and beautiful poetry —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: विदेशेषु मान्यः स्वदेशेषु धन्यः**
+**विदेशेषु मान्यः स्वदेशेषु धन्यः**
 
 One may be honored in foreign lands and prosperous in one's own land —
 
@@ -147,7 +181,7 @@ One may be honored in foreign lands and prosperous in one's own land —
 स्वदेशेषु (svadeśeṣu): in one's own country (sva = own, deśa = country)
 धन्यः (dhanyaḥ): fortunate, prosperous, blessed
 
-**Line 2: सदाचारवृत्तेषु मत्तो न चान्यः**
+**सदाचारवृत्तेषु मत्तो न चान्यः**
 
 "In righteous conduct, there is none greater than me" —
 
@@ -158,7 +192,24 @@ One may be honored in foreign lands and prosperous in one's own land —
 च (ca): and
 अन्यः (anyaḥ): another, other
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -171,7 +222,7 @@ One may be honored in foreign lands and prosperous in one's own land —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: क्षमामण्डले भूपभूपालवृन्दैः**
+**क्षमामण्डले भूपभूपालवृन्दैः**
 
 On the surface of the earth, by groups of kings and rulers —
 
@@ -181,7 +232,7 @@ On the surface of the earth, by groups of kings and rulers —
 भूपाल (bhūpāla): king, ruler (synonym of bhūpa)
 वृन्दैः (vṛndaiḥ): by groups, by multitudes (instrumental plural)
 
-**Line 2: सदा सेवितं यस्य पादारविन्दम्**
+**सदा सेवितं यस्य पादारविन्दम्**
 
 Whose lotus feet are ever worshipped —
 
@@ -191,7 +242,24 @@ Whose lotus feet are ever worshipped —
 पाद (pāda): foot
 अरविन्दम् (aravindam): lotus
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -204,7 +272,7 @@ Whose lotus feet are ever worshipped —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: यशो मे गतं दिक्षु दानप्रतापात्**
+**यशो मे गतं दिक्षु दानप्रतापात्**
 
 "My fame has spread in all directions through the power of my generosity" —
 
@@ -215,7 +283,7 @@ Whose lotus feet are ever worshipped —
 दान (dāna): charity, generosity
 प्रतापात् (pratāpāt): through the power/glory of (ablative of pratāpa)
 
-**Line 2: जगद्वस्तु सर्वं करे यत्प्रसादात्**
+**जगद्वस्तु सर्वं करे यत्प्रसादात्**
 
 "All the things of the world are in my hand by whose grace" —
 
@@ -226,7 +294,24 @@ Whose lotus feet are ever worshipped —
 यत् (yat): whose, by which
 प्रसादात् (prasādāt): by the grace of (ablative of prasāda)
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -239,7 +324,7 @@ Whose lotus feet are ever worshipped —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: न भोगे न योगे न वा वाजिराजौ**
+**न भोगे न योगे न वा वाजिराजौ**
 
 Not in pleasures, not in yoga, not in horses and royal splendor —
 
@@ -249,7 +334,7 @@ Not in pleasures, not in yoga, not in horses and royal splendor —
 वा (vā): or
 वाजिराजौ (vājirājau): in the king of horses, i.e. in royal mounts/splendor (vāji = horse, rāja = king)
 
-**Line 2: न कान्तामुखे नैव वित्तेषु चित्तम्**
+**न कान्तामुखे नैव वित्तेषु चित्तम्**
 
 Not in the face of the beloved, nor in wealth, is the mind fixed —
 
@@ -259,7 +344,24 @@ Not in the face of the beloved, nor in wealth, is the mind fixed —
 वित्तेषु (vitteṣu): in wealth, in riches (locative plural of vitta)
 चित्तम् (cittam): mind, consciousness
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
@@ -272,7 +374,7 @@ Not in the face of the beloved, nor in wealth, is the mind fixed —
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**Line 1: अरण्ये न वा स्वस्य गेहे न कार्ये**
+**अरण्ये न वा स्वस्य गेहे न कार्ये**
 
 Neither in the forest, nor in one's own home, nor in duty —
 
@@ -283,7 +385,7 @@ Neither in the forest, nor in one's own home, nor in duty —
 गेहे (gehe): in the home (locative of geha)
 कार्ये (kārye): in work, in duty (locative of kārya)
 
-**Line 2: न देहे मनो वर्तते मे त्वनर्घ्ये**
+**न देहे मनो वर्तते मे त्वनर्घ्ये**
 
 Not in the body does my mind dwell, for it is beyond price —
 
@@ -295,7 +397,24 @@ Not in the body does my mind dwell, for it is beyond price —
 तु (tu): but, indeed
 अनर्घ्ये (anargye): in that which is priceless (an = not, arghya = having a price)
 
-**Lines 3–4:** Same refrain.
+**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं**
+
+In the lotus feet of the Guru, if the mind is not absorbed —
+
+गुरोः (guroḥ): of the Guru
+अङ्घ्रि (aṅghri): foot
+पद्मे (padme): in the lotus (locative case of padma)
+मनः (manaḥ): mind
+चेत् (cet): if
+न (na): not
+लग्नम् (lagnam): attached, absorbed, fixed upon
+
+**ततः किं ततः किं ततः किं ततः किम्**
+
+Then what use? Then what use? Then what use? Then what use?
+
+ततः (tataḥ): then, from that
+किम् (kim): what (use)? — rhetorical: "of what avail?"
 
 ---
 
