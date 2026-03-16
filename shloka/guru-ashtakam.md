@@ -17,9 +17,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**शरीरं सुरूपं तथा वा कलत्रं** — The body may be beautiful, and so too the spouse
-
-<details><summary>Word by word</summary>
+<details><summary><b>शरीरं सुरूपं तथा वा कलत्रं</b> — The body may be beautiful, and so too the spouse</summary>
 
 शरीरम् (śarīram): body
 
@@ -33,9 +31,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**यशश्चारु चित्रं धनं मेरुतुल्यम्** — Fame may be wonderfully attractive, and wealth equal to Mount Meru
-
-<details><summary>Word by word</summary>
+<details><summary><b>यशश्चारु चित्रं धनं मेरुतुल्यम्</b> — Fame may be wonderfully attractive, and wealth equal to Mount Meru</summary>
 
 यशः (yaśaḥ): fame, glory
 
@@ -51,9 +47,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -71,9 +65,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -92,9 +84,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**कलत्रं धनं पुत्रपौत्रादि सर्वं** — Spouse, wealth, sons, grandsons and all the rest
-
-<details><summary>Word by word</summary>
+<details><summary><b>कलत्रं धनं पुत्रपौत्रादि सर्वं</b> — Spouse, wealth, sons, grandsons and all the rest</summary>
 
 कलत्रम् (kalatram): wife, spouse
 
@@ -110,9 +100,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गृहं बान्धवाः सर्वमेतद्धि जातम्** — Home, relatives — all these may indeed be there
-
-<details><summary>Word by word</summary>
+<details><summary><b>गृहं बान्धवाः सर्वमेतद्धि जातम्</b> — Home, relatives — all these may indeed be there</summary>
 
 गृहम् (gṛham): house, home
 
@@ -128,9 +116,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -148,9 +134,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -169,9 +153,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**षडङ्गादिवेदो मुखे शास्त्रविद्या** — The Vedas with their six limbs may be on one's lips, and the knowledge of all scriptures
-
-<details><summary>Word by word</summary>
+<details><summary><b>षडङ्गादिवेदो मुखे शास्त्रविद्या</b> — The Vedas with their six limbs may be on one's lips, and the knowledge of all scriptures</summary>
 
 षडङ्ग (ṣaḍaṅga): six limbs (the six Vedāngas — śikṣā, chandas, vyākaraṇa, nirukta, jyotiṣa, kalpa)
 
@@ -187,9 +169,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**कवित्वादि गद्यं सुपद्यं करोति** — One may compose fine prose and beautiful poetry
-
-<details><summary>Word by word</summary>
+<details><summary><b>कवित्वादि गद्यं सुपद्यं करोति</b> — One may compose fine prose and beautiful poetry</summary>
 
 कवित्व (kavitva): poetic ability, the art of poetry
 
@@ -205,9 +185,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -225,9 +203,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -246,9 +222,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**विदेशेषु मान्यः स्वदेशेषु धन्यः** — One may be honored in foreign lands and prosperous in one's own land
-
-<details><summary>Word by word</summary>
+<details><summary><b>विदेशेषु मान्यः स्वदेशेषु धन्यः</b> — One may be honored in foreign lands and prosperous in one's own land</summary>
 
 विदेशेषु (videśeṣu): in foreign countries (vi = different, deśa = country, -eṣu = locative plural)
 
@@ -260,9 +234,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**सदाचारवृत्तेषु मत्तो न चान्यः** — "In righteous conduct, there is none greater than me"
-
-<details><summary>Word by word</summary>
+<details><summary><b>सदाचारवृत्तेषु मत्तो न चान्यः</b> — "In righteous conduct, there is none greater than me"</summary>
 
 सदाचार (sadācāra): good conduct, righteous behavior (sat = good, ācāra = conduct)
 
@@ -278,9 +250,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -298,9 +268,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -319,9 +287,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**क्षमामण्डले भूपभूपालवृन्दैः** — On the surface of the earth, by groups of kings and rulers
-
-<details><summary>Word by word</summary>
+<details><summary><b>क्षमामण्डले भूपभूपालवृन्दैः</b> — On the surface of the earth, by groups of kings and rulers</summary>
 
 क्षमा (kṣamā): the earth
 
@@ -335,9 +301,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**सदा सेवितं यस्य पादारविन्दम्** — Whose lotus feet are ever worshipped
-
-<details><summary>Word by word</summary>
+<details><summary><b>सदा सेवितं यस्य पादारविन्दम्</b> — Whose lotus feet are ever worshipped</summary>
 
 सदा (sadā): always, ever
 
@@ -351,9 +315,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -371,9 +333,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -392,9 +352,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**यशो मे गतं दिक्षु दानप्रतापात्** — "My fame has spread in all directions through the power of my generosity"
-
-<details><summary>Word by word</summary>
+<details><summary><b>यशो मे गतं दिक्षु दानप्रतापात्</b> — "My fame has spread in all directions through the power of my generosity"</summary>
 
 यशः (yaśaḥ): fame, glory
 
@@ -410,9 +368,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**जगद्वस्तु सर्वं करे यत्प्रसादात्** — "All the things of the world are in my hand by whose grace"
-
-<details><summary>Word by word</summary>
+<details><summary><b>जगद्वस्तु सर्वं करे यत्प्रसादात्</b> — "All the things of the world are in my hand by whose grace"</summary>
 
 जगत् (jagat): world
 
@@ -428,9 +384,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -448,9 +402,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -469,9 +421,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**न भोगे न योगे न वा वाजिराजौ** — Not in pleasures, not in yoga, not in horses and royal splendor
-
-<details><summary>Word by word</summary>
+<details><summary><b>न भोगे न योगे न वा वाजिराजौ</b> — Not in pleasures, not in yoga, not in horses and royal splendor</summary>
 
 न (na): not
 
@@ -485,9 +435,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**न कान्तामुखे नैव वित्तेषु चित्तम्** — Not in the face of the beloved, nor in wealth, is the mind fixed
-
-<details><summary>Word by word</summary>
+<details><summary><b>न कान्तामुखे नैव वित्तेषु चित्तम्</b> — Not in the face of the beloved, nor in wealth, is the mind fixed</summary>
 
 कान्ता (kāntā): beloved, wife
 
@@ -501,9 +449,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -521,9 +467,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
@@ -542,9 +486,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः किं ततः किं ततः किं ततः किम् ॥
 ```
 
-**अरण्ये न वा स्वस्य गेहे न कार्ये** — Neither in the forest, nor in one's own home, nor in duty
-
-<details><summary>Word by word</summary>
+<details><summary><b>अरण्ये न वा स्वस्य गेहे न कार्ये</b> — Neither in the forest, nor in one's own home, nor in duty</summary>
 
 अरण्ये (araṇye): in the forest (locative of araṇya)
 
@@ -560,9 +502,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**न देहे मनो वर्तते मे त्वनर्घ्ये** — Not in the body does my mind dwell, for it is beyond price
-
-<details><summary>Word by word</summary>
+<details><summary><b>न देहे मनो वर्तते मे त्वनर्घ्ये</b> — Not in the body does my mind dwell, for it is beyond price</summary>
 
 न (na): not
 
@@ -580,9 +520,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं** — In the lotus feet of the Guru, if the mind is not absorbed
-
-<details><summary>Word by word</summary>
+<details><summary><b>गुरोरङ्घ्रिपद्मे मनश्चेन्न लग्नं</b> — In the lotus feet of the Guru, if the mind is not absorbed</summary>
 
 गुरोः (guroḥ): of the Guru
 
@@ -600,9 +538,7 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 
 </details>
 
-**ततः किं ततः किं ततः किं ततः किम्** — Then what use? Then what use? Then what use? Then what use?
-
-<details><summary>Word by word</summary>
+<details><summary><b>ततः किं ततः किं ततः किं ततः किम्</b> — Then what use? Then what use? Then what use? Then what use?</summary>
 
 ततः (tataḥ): then, from that
 
