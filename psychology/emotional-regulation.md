@@ -6,7 +6,6 @@ keywords: "emotional regulation, hindu psychology, antaḥkaraṇa, bhagavad git
 
 # Emotional Regulation
 
-
 Hindu philosophy offers one of the most sophisticated frameworks for understanding and working with emotions. The tradition doesn't view emotions as problems to suppress — rather, they're seen as expressions of a deeper energetic reality that can be understood, transformed, and ultimately transcended.
 
 
@@ -73,7 +72,7 @@ Old emotional imprints (*saṃskāras*) stored in *chitta* continue to generate 
 
 ## The Three Guṇas — Emotional Weather
 
-The *Sāṃkhya* tradition classifies all of nature and mind into three qualities:
+The *साङ्ख्य / Sāṃkhya* tradition classifies all of nature and mind into three qualities:
 
 | Guṇa | Quality | Emotional Expression |
 |---|---|---|
@@ -86,7 +85,7 @@ Emotional regulation, in this view, is the ongoing cultivation of *sattva* throu
 
 ## Rasa Theory — The Nine Emotional Essences
 
-The *Nāṭyaśāstra* of Bharata Muni (the foundational text of Indian aesthetics) presents a radically different approach to emotion: rather than suppressing or transcending feelings, the nine *rasas* are to be **fully tasted** and experienced in a detached, aesthetic way — as a witness, not as one consumed.
+The *नाट्यशास्त्र / Nāṭyaśāstra* of Bharata Muni (the foundational text of Indian aesthetics) presents a radically different approach to emotion: rather than suppressing or transcending feelings, the nine *rasas* are to be **fully tasted** and experienced in a detached, aesthetic way — as a witness, not as one consumed.
 
 | # | Rasa | Emotion | Root feeling (*sthāyibhāva*) |
 |---|---|---|---|
@@ -105,7 +104,7 @@ The *Nāṭyaśāstra* of Bharata Muni (the foundational text of Indian aestheti
 *Śānta rasa* — the rasa of peace — was debated by later scholars as to whether it belonged in the list. Abhinavagupta, the great Kashmiri Śaiva philosopher, argued powerfully that it should, as it is the ground on which all other rasas arise and return.
 
 
-## The Goal: Sthitaprajña (Steady Wisdom)
+## The Goal: स्थितप्रज्ञ / Sthitaprajña (Steady Wisdom)
 
 The *Sthitaprajña* described by Kṛṣṇa in Bhagavad Gītā 2.54–72 is the psychological portrait of someone who has integrated all of the above:
 
@@ -115,7 +114,7 @@ The *Sthitaprajña* described by Kṛṣṇa in Bhagavad Gītā 2.54–72 is the
 - Pleasure does not excite; pain does not shatter
 - There is no grasping at joy, no fleeing from sorrow
 
-This is not achieved through suppression, but through the sustained practice of *viveka*, *vairāgya*, and *samādhi* — until the habit of identifying with every passing emotional wave simply dissolves, and what remains is the unchanging awareness that was always already there.
+This is not achieved through suppression, but through the sustained practice of *विवेक / viveka*, *वैराग्य / vairāgya*, and *समाधि / samādhi* — until the habit of identifying with every passing emotional wave simply dissolves, and what remains is the unchanging awareness that was always already there.
 
 
 ## Summary: The Full Path
