@@ -24,3 +24,4 @@
 ## Available Texts
 
 - [devi-bhagavadam](./devi-bhagavadam.md)
+- [vyasa](./vyasa.md)
