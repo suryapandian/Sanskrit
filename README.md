@@ -5,5 +5,5 @@ Learning sanskrit through AI. Modern day problems resolved by modern day solutio
 Website: https://suryapandian.github.io/Sanskrit/
 
 - [Psychology](psychology/README.md)
-- [Puranas](puranas/README.md)
-- [Shloka](shloka/README.md)
+- [Stories](puranas/README.md)
+- [Poetries](shloka/README.md)
