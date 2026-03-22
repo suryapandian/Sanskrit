@@ -8,8 +8,6 @@ keywords: "guru ashtakam, गुरु अष्टकम्, adi shankaracharya
 
 By Adi Shankaracharya
 
-[![Guru Ashtakam](https://img.youtube.com/vi/jTLSQXFcKPo/0.jpg)](https://www.youtube.com/watch?v=jTLSQXFcKPo)
-
 Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbed, then what is the use? What is the use? What is the use? What is the use?"
 
 ---
@@ -569,3 +567,5 @@ Each verse ends with: "In the lotus feet of the Guru, if the mind is not absorbe
 ततः (tataḥ): then
 
 किम् (kim): what (use)?
+
+[![Guru Ashtakam](https://img.youtube.com/vi/jTLSQXFcKPo/0.jpg)](https://www.youtube.com/watch?v=jTLSQXFcKPo)
