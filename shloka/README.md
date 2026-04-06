@@ -5,3 +5,4 @@
 - [saraswathi](./saraswathi.md)
 - [snanam](./snanam.md)
 - [guru-ashtakam](./guru-ashtakam.md)
+- [soundarya-lahari](./soundarya-lahari.md)
