@@ -808,6 +808,379 @@ Soundarya Lahari ("The Wave of Beauty") is one of the most celebrated hymns in S
 
 ---
 
+## Verse 11
+
+```
+चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि
+प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः ।
+चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-
+त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः ॥
+```
+
+<details><summary><b>चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि</b> — With four Shiva triangles and five Shakti triangles</summary>
+
+चतुर्भिः (caturbhiḥ): with four (instrumental plural of catur)
+
+श्रीकण्ठैः (śrīkaṇṭhaiḥ): with Shiva triangles (śrīkaṇṭha = a name of Shiva, "beautiful-throated"; here refers to the upward-pointing triangles)
+
+शिवयुवतिभिः (śivayuvatibhiḥ): with Shakti triangles (śiva-yuvatī = Shiva's consort; the downward-pointing triangles)
+
+पञ्चभिः (pañcabhiḥ): with five (instrumental plural)
+
+अपि (api): also
+
+</details>
+
+<details><summary><b>प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः</b> — Distinctly formed from Shambhu, and with the nine root-natures</summary>
+
+प्रभिन्नाभिः (prabhinnābhiḥ): distinctly formed, differentiated (instrumental plural of prabhinna)
+
+शम्भोः (śambhoḥ): of Shambhu, of Shiva (genitive)
+
+नवभिः (navabhiḥ): with nine (instrumental plural)
+
+अपि (api): also
+
+मूलप्रकृतिभिः (mūlaprakṛtibhiḥ): with the root-natures, the primary material causes (mūla = root, prakṛti = nature/matter)
+
+</details>
+
+<details><summary><b>चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-</b> — Forty-four angles, with petals and circles in three rings</summary>
+
+चतुश्चत्वारिंशत् (catuścatvāriṃśat): forty-four
+
+वसुदल (vasudala): eight petals (vasu = eight, dala = petal)
+
+कला (kalā): parts, divisions, digits
+
+श्र (śra): [combined with following word]
+
+त्रिवलय (trivalaya): three rings, three circles (tri = three, valaya = ring)
+
+</details>
+
+<details><summary><b>त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः</b> — With three lines, Your abode of triangles is formed — the Sri Chakra</summary>
+
+त्रिरेखाभिः (trirekhābhiḥ): with three lines (tri = three, rekhā = line; instrumental plural)
+
+सार्धम् (sārdham): together with
+
+तव (tava): Your
+
+शरण (śaraṇa): abode, refuge
+
+कोणाः (koṇāḥ): angles, triangles
+
+परिणताः (pariṇatāḥ): formed, manifested, evolved (nominative plural)
+
+</details>
+
+---
+
+## Verse 12
+
+```
+त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं
+कवीन्द्राणां कल्पो जगति न कथञ्चित्क्षमपदम् ।
+अतस्ते सौन्दर्यं भुवनजननि प्रत्यवसितं
+रसालापैरत्यद्भुतमिति वचो योगमहताम् ॥
+```
+
+<details><summary><b>त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं</b> — Your beauty, O daughter of the snow mountain, to measure it</summary>
+
+त्वदीयम् (tvadīyam): Yours, belonging to You
+
+सौन्दर्यम् (saundaryam): beauty
+
+तुहिनगिरिकन्ये (tuhinagirikanya): O daughter of the snow mountain (tuhina = snow/frost, giri = mountain, kanyā = daughter — vocative)
+
+तुलयितुम् (tulayitum): to measure, to weigh, to compare (infinitive of tul)
+
+</details>
+
+<details><summary><b>कवीन्द्राणां कल्पो जगति न कथञ्चित्क्षमपदम्</b> — Even a cosmic age of the greatest poets in the world is not in any way capable</summary>
+
+कवीन्द्राणाम् (kavīndrāṇām): of the kings among poets (kavi = poet, indra = chief; genitive plural)
+
+कल्पः (kalpaḥ): a cosmic age, an aeon
+
+जगति (jagati): in the world (locative of jagat)
+
+न (na): not
+
+कथञ्चित् (kathañcit): in any way, somehow
+
+क्षमपदम् (kṣamapadam): a position of capability (kṣama = capable, pada = position)
+
+</details>
+
+<details><summary><b>अतस्ते सौन्दर्यं भुवनजननि प्रत्यवसितं</b> — Therefore Your beauty, O mother of the universe, is resolved</summary>
+
+अतः (ataḥ): therefore
+
+ते (te): Your
+
+सौन्दर्यम् (saundaryam): beauty
+
+भुवनजननि (bhuvanajanani): O mother of the universe (bhuvana = world, jananī = mother — vocative)
+
+प्रत्यवसितम् (pratyavasitam): resolved, concluded, settled
+
+</details>
+
+<details><summary><b>रसालापैरत्यद्भुतमिति वचो योगमहताम्</b> — As supremely wondrous — such is the word of the great yogis, expressed in their nectarean utterances</summary>
+
+रसालापैः (rasālāpaiḥ): with nectarean utterances (rasa = nectar/essence, ālāpa = speech; instrumental plural)
+
+अत्यद्भुतम् (atyadbhutam): supremely wondrous (ati = exceedingly, adbhuta = wonderful)
+
+इति (iti): thus, such
+
+वचः (vacaḥ): word, speech
+
+योगमहताम् (yogamahatām): of the great yogis (yoga = yoga, mahat = great; genitive plural)
+
+</details>
+
+---
+
+## Verse 13
+
+```
+नरं वर्षीयांसं नयनविरसं नर्मसु जडं
+तवापाङ्गालोके पतितमनुधावन्ति शतशः ।
+गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचया
+हठात् त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः ॥
+```
+
+<details><summary><b>नरं वर्षीयांसं नयनविरसं नर्मसु जडं</b> — A man who is old, unpleasant to the eyes, and dull in matters of love</summary>
+
+नरम् (naram): a man (accusative of nara)
+
+वर्षीयांसम् (varṣīyāṃsam): aged, very old (comparative of vṛddha, literally "of many years")
+
+नयन (nayana): eye
+
+विरसम् (virasam): unpleasant, unattractive (vi = without, rasa = charm)
+
+नर्मसु (narmasu): in matters of love, in playfulness (locative plural of narma)
+
+जडम् (jaḍam): dull, inert, stupid
+
+</details>
+
+<details><summary><b>तवापाङ्गालोके पतितमनुधावन्ति शतशः</b> — Upon whom Your sidelong glance has fallen, hundreds chase after him</summary>
+
+तव (tava): Your
+
+अपाङ्ग (apāṅga): sidelong glance, corner of the eye
+
+आलोके (āloke): in the glance, upon the look (locative of āloka)
+
+पतितम् (patitam): fallen upon (accusative, past participle of pat)
+
+अनुधावन्ति (anudhāvanti): run after, chase (3rd person plural of anu + dhāv)
+
+शतशः (śataśaḥ): by hundreds, in hundreds
+
+</details>
+
+<details><summary><b>गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचया</b> — With their braids loosening, the garments slipping from their pitcher-like breasts</summary>
+
+गलत् (galat): loosening, slipping (present participle of gal)
+
+वेणी (veṇī): braid
+
+बन्धाः (bandhāḥ): bonds, ties (nominative plural)
+
+कुच (kuca): breast
+
+कलश (kalaśa): pitcher, pot
+
+विस्रस्त (visrasta): slipped, loosened
+
+सिचया (sicayā): with the upper garment (instrumental of sicā)
+
+</details>
+
+<details><summary><b>हठात् त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः</b> — Their girdles snapping suddenly, their silk garments slipping — young women</summary>
+
+हठात् (haṭhāt): suddenly, forcibly (ablative of haṭha)
+
+त्रुट्यत् (truṭyat): snapping, breaking (present participle of truṭ)
+
+काञ्च्यः (kāñcyaḥ): girdles, waist-chains (nominative plural of kāñcī)
+
+विगलित (vigalita): slipped, loosened
+
+दुकूलाः (dukūlāḥ): silk garments (nominative plural of dukūla)
+
+युवतयः (yuvatayaḥ): young women (nominative plural of yuvatī)
+
+</details>
+
+---
+
+## Verse 14
+
+```
+क्षितौ षट्पञ्चाशद्द्विसमधिकपञ्चाशदुदके
+हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले ।
+दिवि द्विष्षट्त्रिंशन्मनसि च चतुष्षष्टिरिति ये
+मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम् ॥
+```
+
+<details><summary><b>क्षितौ षट्पञ्चाशद्द्विसमधिकपञ्चाशदुदके</b> — In earth fifty-six rays, in water fifty-two</summary>
+
+क्षितौ (kṣitau): in earth (locative of kṣiti)
+
+षट्पञ्चाशत् (ṣaṭpañcāśat): fifty-six (ṣaṭ = six, pañcāśat = fifty)
+
+द्विसमधिक (dvisamadhika): two more than (dvi = two, samdhika = additional)
+
+पञ्चाशत् (pañcāśat): fifty
+
+उदके (udake): in water (locative of udaka)
+
+</details>
+
+<details><summary><b>हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले</b> — In fire sixty-two, in air fifty-four</summary>
+
+हुताशे (hutāśe): in fire (locative of hutāśa; huta = oblation, aśa = eater — "the eater of oblations")
+
+द्वाषष्टिः (dvāṣaṣṭiḥ): sixty-two (dvā = two, ṣaṣṭi = sixty)
+
+चतुरधिक (caturadhika): four more than (catur = four, adhika = more)
+
+पञ्चाशत् (pañcāśat): fifty
+
+अनिले (anile): in air/wind (locative of anila)
+
+</details>
+
+<details><summary><b>दिवि द्विष्षट्त्रिंशन्मनसि च चतुष्षष्टिरिति ये</b> — In space seventy-two, and in mind sixty-four — these</summary>
+
+दिवि (divi): in heaven/space (locative of div)
+
+द्विष्षट्त्रिंशत् (dviṣṣaṭtriṃśat): seventy-two (dvi = two, ṣaṭtriṃśat = thirty-six, i.e., 2 × 36)
+
+मनसि (manasi): in mind (locative of manas)
+
+च (ca): and
+
+चतुष्षष्टिः (catuṣṣaṣṭiḥ): sixty-four (catuḥ = four, ṣaṣṭi = sixty)
+
+इति (iti): thus
+
+ये (ye): which, these (relative pronoun, nominative plural)
+
+</details>
+
+<details><summary><b>मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम्</b> — These rays — above even all of them is the pair of Your lotus feet</summary>
+
+मयूखाः (mayūkhāḥ): rays, beams of light (nominative plural of mayūkha)
+
+तेषाम् (teṣām): of those (genitive plural)
+
+अपि (api): even
+
+उपरि (upari): above, beyond
+
+तव (tava): Your
+
+पाद (pāda): foot
+
+अम्बुज (ambuja): lotus (ambu = water, ja = born — "water-born")
+
+युगम् (yugam): pair, couple
+
+</details>
+
+---
+
+## Verse 15
+
+```
+शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां
+वरत्रासत्राणस्फटिकघुटिकापुस्तककराम् ।
+सकृन्न त्वा नत्वा कथमिव सतां सन्निदधते
+मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः ॥
+```
+
+<details><summary><b>शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां</b> — Pure as autumn moonlight, with a crown of matted locks adorned with the moon</summary>
+
+शरत् (śarat): autumn
+
+ज्योत्स्ना (jyotsnā): moonlight
+
+शुद्धाम् (śuddhām): pure, bright (accusative feminine)
+
+शशि (śaśi): moon
+
+युत (yuta): joined with, adorned with
+
+जटा (jaṭā): matted locks
+
+जूट (jūṭa): twisted mass, coil
+
+मकुटाम् (makuṭām): crown, diadem (accusative feminine)
+
+</details>
+
+<details><summary><b>वरत्रासत्राणस्फटिकघुटिकापुस्तककराम्</b> — Holding in Her hands the gestures of boon and protection, a crystal rosary, and a book</summary>
+
+वर (vara): boon (the vara-mudrā, gesture of granting boons)
+
+त्रास (trāsa): fear
+
+त्राण (trāṇa): protection (the abhaya-mudrā, gesture of fearlessness)
+
+स्फटिक (sphaṭika): crystal
+
+घुटिका (ghuṭikā): bead, rosary bead
+
+पुस्तक (pustaka): book
+
+कराम् (karām): in the hands (accusative feminine of karā)
+
+</details>
+
+<details><summary><b>सकृन्न त्वा नत्वा कथमिव सतां सन्निदधते</b> — Having bowed to You even once, how do the words of the virtuous not become</summary>
+
+सकृत् (sakṛt): once, a single time
+
+न (na): [part of sandhi — combined with त्वा]
+
+त्वा (tvā): You (accusative, short form of tvām)
+
+नत्वा (natvā): having bowed (gerund of nam)
+
+कथम् इव (katham iva): how indeed
+
+सताम् (satām): of the virtuous, of the good (genitive plural of sat)
+
+सन्निदधते (sannidadhate): are placed together, become endowed with (3rd person plural of sam + ni + dhā)
+
+</details>
+
+<details><summary><b>मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः</b> — Foremost in the sweetness of honey, milk, and grapes — their utterances</summary>
+
+मधु (madhu): honey
+
+क्षीर (kṣīra): milk
+
+द्राक्षा (drākṣā): grape
+
+मधुरिम (madhurima): sweetness (abstract noun from madhura = sweet)
+
+धुरीणाः (dhurīṇāḥ): foremost, leading (nominative plural of dhurīṇa)
+
+फणितयः (phaṇitayaḥ): utterances, words, speeches (nominative plural of phaṇiti)
+
+</details>
+
+---
+
 ## Key Recurring Words
 
 शिव (śiva): the auspicious one, Lord Shiva — represents pure consciousness

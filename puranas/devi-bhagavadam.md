@@ -1,3 +1,9 @@
+---
+title: "Devi Bhagavatam | Tapa Traya, Sadhana Chatushthaya & Key Concepts"
+description: "Key concepts from the Devi Bhagavatam - the threefold sorrows (Tapa Traya), fourfold spiritual practices (Sadhana Chatushthaya), and foundational Vedantic teachings."
+keywords: "devi bhagavatam, tapa traya, sadhana chatushthaya, threefold sorrows, adhyatmika, adhibhautika, adhidaivika, vedanta, sanskrit philosophy, spiritual practice"
+---
+
 ## तापत्रय Tāpa Traya - threefold sorrows of existence
 
 | **Sanskrit** | **Meaning** | **Nature** |

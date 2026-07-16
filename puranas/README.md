@@ -25,3 +25,8 @@
 
 - [devi-bhagavadam](./devi-bhagavadam.md)
 - [vyasa](./vyasa.md)
+
+## Mahagatha - Stories from the Puranas
+
+- [Brahma Begins Creation](./mahagatha/01.brahma_begins_creation.md)
+- [Vishnu Kills Madhu & Kaitabha](./mahagatha/02.vishnu_kills.md)
