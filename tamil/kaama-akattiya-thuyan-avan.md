@@ -41,7 +41,7 @@ seo:
 ஜோதிய டிபரஞ் ஜோதியடி
 
 
-காம மகற்றிய தூய னடி: He is the pure one who has destroyed all lust, O friends!
+காம மகற்றிய தூய னடி: He is the pure one who has destroyed all lust/desire, O friends!
 
 சிவ காம சவுந்தரி நேய னடி: He is the beloved of Mother Sivagami Sundari, O friends!
 
