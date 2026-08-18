@@ -3,6 +3,7 @@ layout: default
 title: காமம் அகற்றிய தூயன் அவன் - Kaama Akattiya Thuyan Avan
 description: Tamil devotional hymn celebrating Lord Shiva as the pure one who has destroyed all lust. Line by line translation with meanings.
 keywords: Tamil, Shiva, devotional, hymn, kaama, purity, shivam
+permalink: /tamil/kaama-akattiya-thuyan-avan/
 seo:
   type: article
 ---

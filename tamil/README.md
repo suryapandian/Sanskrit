@@ -11,4 +11,4 @@ Classical Tamil devotional hymns and stotras with line-by-line translations and 
 
 ## Devotional Hymns
 
-- [காமம் அகற்றிய தூயன் அவன்](./காமம்-அகற்றிய-தூயன்-அவன்.md) (Kaama Akattiya Thuyan Avan) - The Pure One Who Destroyed Lust
+- [காமம் அகற்றிய தூயன் அவன்](./kaama-akattiya-thuyan-avan.md) (Kaama Akattiya Thuyan Avan) - The Pure One Who Destroyed Lust
