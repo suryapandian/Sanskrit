@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(__NEW_LINE_60a78a7e55eaeae1__:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit *)",
+      "Bash(git diff-tree *)"
     ]
   }
 }

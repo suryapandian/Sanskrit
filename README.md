@@ -7,8 +7,6 @@ Website: https://suryapandian.github.io/Sanskrit/
 - [Psychology](psychology/README.md)
 - [Stories](puranas/README.md)
 - [Poetries](shloka/README.md)
-- [Tamil](tamil/README.md) - Including [Kaama Akattiya Thuyan Avan](tamil/README.md#devotional-hymns)
-
----
+- [Tamil](tamil/README.md)
 
 🌸 If you found value in this, consider donating to any of the causes at [donateabook.org.in](https://donateabook.org.in/) 🌿
