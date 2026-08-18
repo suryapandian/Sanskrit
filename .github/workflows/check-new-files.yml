@@ -98,3 +98,66 @@ jobs:
 
           echo ""
           echo "✅ All new files are properly documented!"
+
+      - name: Check SEO metadata (permalinks, descriptions)
+        run: |
+          #!/bin/bash
+          set -e
+
+          # Get the base commit
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          else
+            BASE_SHA="${{ github.event.before }}"
+          fi
+
+          if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            echo "No previous commit found, skipping SEO check"
+            exit 0
+          fi
+
+          # Get list of new/modified markdown files
+          MD_FILES=$(git diff --name-only --diff-filter=ACM "$BASE_SHA"...HEAD -- "*.md" | grep -v "README.md" || true)
+
+          if [ -z "$MD_FILES" ]; then
+            echo "✓ No new markdown files to check"
+            exit 0
+          fi
+
+          echo "Checking SEO metadata in markdown files..."
+          FAILED=0
+
+          for FILE in $MD_FILES; do
+            # Skip if not a .md file or is a README
+            if [[ ! "$FILE" =~ \.md$ ]] || [[ "$FILE" =~ README\.md$ ]]; then
+              continue
+            fi
+
+            # Check for front matter with required SEO fields
+            if head -20 "$FILE" | grep -q "^permalink:"; then
+              echo "✓ $FILE (has permalink)"
+            else
+              echo "⚠ $FILE (missing permalink for SEO-friendly URL)"
+              FAILED=1
+            fi
+
+            # Check for description in front matter
+            if head -20 "$FILE" | grep -q "^description:"; then
+              echo "✓ $FILE (has description)"
+            else
+              echo "⚠ $FILE (missing description for SEO)"
+              FAILED=1
+            fi
+          done
+
+          if [ $FAILED -eq 1 ]; then
+            echo ""
+            echo "⚠️ Some files are missing SEO metadata"
+            echo "Please add to front matter:"
+            echo "  - permalink: /path/to/clean-url/"
+            echo "  - description: Brief description for SEO"
+            exit 0
+          fi
+
+          echo ""
+          echo "✅ All files have proper SEO metadata!"
